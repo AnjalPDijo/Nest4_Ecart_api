@@ -1,0 +1,22 @@
+.topic{
+    display: flex;
+    /* text-align: center; */
+    padding: 20px;
+    justify-content: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card{
+    box-shadow: 10px 10px 10px rgb(222, 132, 41);
+    margin-right: 5px;
+}
+/* .set{
+    display: flex;
+    padding: 50px;
+
+    padding-left: 20px;
+    flex-direction: row;
+} */
+.main{
+    background-color: rgb(255, 208, 127);
+    padding: 50px;
+}
